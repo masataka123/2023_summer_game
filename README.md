@@ -24,7 +24,7 @@
 
 (2023/04/10 注: CLEからこのページを見るとダウンロードできない可能性があります. その場合はhttps://masataka123.github.io/2023_summer_game/とリンクを打ってCLE外から見てください. )
 
-- 第1回 (2023/04/12).  ガイダンス [ガイダンスの資料](https://github.com/masataka123/2023_summer_game/blob/master/material/0_ガイダンス資料.pdf)
+- 第1回 (2023/04/12).  ガイダンス [ガイダンスの資料](https://github.com/masataka123/2023_summer_game/blob/master/material/1_ガイダンス_公開用.pdf)
 
 - 第2回 (2023/04/19).  
 
