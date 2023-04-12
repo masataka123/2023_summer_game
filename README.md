@@ -57,6 +57,6 @@
 
 # 資料に関して
 
-- もし資料を一括してダウンロードしたい場合は[こちらのページ](https://github.com/masataka123/2022_winter_stokes/tree/master/material)をご覧ください.
+- もし資料を一括してダウンロードしたい場合は[こちらのページ](https://github.com/masataka123/2023_summer_game/tree/master/material)をご覧ください.
 - 著作権は岩井雅崇にあります. 
 - 資料等に関して何か問題があった場合(例: 何らかの問題でダウンロードできない, 文字化けしている), メールにて私にご連絡していただければ幸いです.
