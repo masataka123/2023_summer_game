@@ -34,7 +34,7 @@
 
 - 第3回 (2023/04/26).  石取りゲーム2 [第3回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/3_石取りゲーム_公開用.pdf)
 
-- 第4回 (2023/05/10).  石取りゲーム3 Sprague–Grundy theorem
+- 第4回 (2023/05/10).  石取りゲーム3 Sprague–Grundy theorem [第4回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/4_石取りゲーム_公開用.pdf)
 
 - 第5回 (2023/05/17).  [世界のアソビ大全51](https://www.nintendo.co.jp/switch/as7ta/) (予定) 
 
