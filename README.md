@@ -85,8 +85,8 @@
 - Nash, John. “Non-Cooperative Games.” Annals of Mathematics 54, no. 2 (1951): 286–95. https://doi.org/10.2307/1969529.
 - Nash, J. F. and Shapley, L. S.. "10. A SIMPLE THREE-PERSON POKER GAME". Contributions to the Theory of Games (AM-24), Volume I, edited by Harold William Kuhn and Albert William Tucker, Princeton: Princeton University Press, 1951, pp. 105-116. https://doi.org/10.1515/9781400881727-011- 
 - [世界のヨコサワ Youtubeチャンネル](https://www.youtube.com/@yokosawa/featured)
--[【すぐ出来る】ポーカーのルールを世界一わかりやすくプロギャンブラーが解説します。【テキサスホールデム】](https://www.youtube.com/watch?v=tGoA4OWzzAk&t=1145s)
--[【必勝法】カジノの勝ち方、全て話します。〜なぜあなたはギャンブルで負けるのか~]( https://www.youtube.com/watch?v=GAaj8hlls6I&t=15s)
+- [【すぐ出来る】ポーカーのルールを世界一わかりやすくプロギャンブラーが解説します。【テキサスホールデム】](https://www.youtube.com/watch?v=tGoA4OWzzAk&t=1145s)
+- [【必勝法】カジノの勝ち方、全て話します。〜なぜあなたはギャンブルで負けるのか~]( https://www.youtube.com/watch?v=GAaj8hlls6I&t=15s)
 - [ROOTS What is poker ポーカーってなに?](https://roots-poker.com/what-is-poker)
 
 
