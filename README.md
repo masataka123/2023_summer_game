@@ -74,12 +74,15 @@
 - 秋葉拓哉, 岩田陽一, 北川宜稔 プログラミングコンテストチャレンジブック
 - [AtCoder](https://atcoder.jp/home)
 - ピーターウィンクラー とっておきの数学パズル
+
 ## 第2-4回 石取りゲーム
 - 佐藤文広 石取りゲームの数学
+
 ## 第5回 世界のアソビ大全51
 - 伊藤 毅志 ゲーム情報学概論
 - [Chinook](https://webdocs.cs.ualberta.ca/~chinook/games/)
 - [【世界のアソビ大全51】ボドゲガチ勢が完全実力ゲー全12種でCPU最高難易度『やばい』を淡々と倒すだけ](https://www.youtube.com/watch?v=2AXEur7pe_s&t=34s)
+
 ## 第6回 ポーカー
 - H.W.クーン S. ナサー ナッシュは何を見たか 純粋数学とゲーム理論.
 - Nash, John. “Non-Cooperative Games.” Annals of Mathematics 54, no. 2 (1951): 286–95. https://doi.org/10.2307/1969529.
