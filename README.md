@@ -36,15 +36,15 @@
 
 - 第4回 (2023/05/10).  石取りゲーム3 Sprague–Grundy theorem [第4回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/4_石取りゲーム_公開用.pdf)
 
-- 第5回 (2023/05/17).  [世界のアソビ大全51](https://www.nintendo.co.jp/switch/as7ta/) (予定) 
+- 第5回 (2023/05/17).  [世界のアソビ大全51](https://www.nintendo.co.jp/switch/as7ta/) [第5回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/5_世界のアソビ大全51_公開用.pdf)
 
-- 第6回 (2023/05/24).  
+- 第6回 (2023/05/24).  ポーカー
 
-- 第7回 (2023/05/31).  
+- 第7回 (2023/05/31).  素数大富豪 (予定)
 
-- (2023/06/07). 休講(予定)
+- (2023/06/07). 休講
 
-- 第8回 (2023/06/14).  
+- 第8回 (2023/06/14).  研究者人生ゲーム・研究者のお仕事 (予定)
 
 - 第9回 (2023/06/21).  
 
@@ -60,21 +60,34 @@
 
 ## 授業の案
 以下はやるかもしれない授業の案です(予定のものも含まれます)
-- 素数大富豪
-- ポーカー
 - BABA IS YOU
 - ゼルダの伝説 ブレスオブザワイルド
 - Minecraft
-- 研究者人生ゲーム
 - いろいろなものの確率テスト
 
 # 授業作成にあたり参考にしたもの
 
 <u>講義のネタバレを含むためこの講義が終わってから読むことをお勧めします.</u>
 
+### この授業全般
 - 安田健彦 ゲームで大学数学入門 (全般) 
-- 秋葉拓哉, 岩田陽一, 北川宜稔 プログラミングコンテストチャレンジブック (第2-5回)
-- 佐藤文広 石取りゲームの数学 (第2-4回)
+- 秋葉拓哉, 岩田陽一, 北川宜稔 プログラミングコンテストチャレンジブック
+- [AtCoder](https://atcoder.jp/home)
+- ピーターウィンクラー とっておきの数学パズル
+### 第2-4回
+- 佐藤文広 石取りゲームの数学
+### 第5回
+- 伊藤 毅志 ゲーム情報学概論
+- [Chinook](https://webdocs.cs.ualberta.ca/~chinook/games/)
+- [【世界のアソビ大全51】ボドゲガチ勢が完全実力ゲー全12種でCPU最高難易度『やばい』を淡々と倒すだけ](https://www.youtube.com/watch?v=2AXEur7pe_s&t=34s)
+### 第6回
+- H.W.クーン S. ナサー ナッシュは何を見たか 純粋数学とゲーム理論.
+- Nash, John. “Non-Cooperative Games.” Annals of Mathematics 54, no. 2 (1951): 286–95. https://doi.org/10.2307/1969529.
+- Nash, J. F. and Shapley, L. S.. "10. A SIMPLE THREE-PERSON POKER GAME". Contributions to the Theory of Games (AM-24), Volume I, edited by Harold William Kuhn and Albert William Tucker, Princeton: Princeton University Press, 1951, pp. 105-116. https://doi.org/10.1515/9781400881727-011- 
+- [世界のヨコサワ Youtubeチャンネル](https://www.youtube.com/@yokosawa/featured)
+-[【すぐ出来る】ポーカーのルールを世界一わかりやすくプロギャンブラーが解説します。【テキサスホールデム】](https://www.youtube.com/watch?v=tGoA4OWzzAk&t=1145s)
+-[【必勝法】カジノの勝ち方、全て話します。〜なぜあなたはギャンブルで負けるのか~]( https://www.youtube.com/watch?v=GAaj8hlls6I&t=15s)
+- [ROOTS What is poker ポーカーってなに?](https://roots-poker.com/what-is-poker)
 
 
 # 資料に関して
