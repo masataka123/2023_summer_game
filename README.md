@@ -38,9 +38,10 @@
 
 - 第5回 (2023/05/17).  [世界のアソビ大全51](https://www.nintendo.co.jp/switch/as7ta/) [第5回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/5_世界のアソビ大全51_公開用.pdf)
 
-- 第6回 (2023/05/24).  ポーカー
+- 第6回 (2023/05/24).  ポーカー  [第6回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/6_ポーカー_公開用.pdf)
 
-- 第7回 (2023/05/31).  [素数大富豪](https://primeqk.themedia.jp) (予定)
+
+- 第7回 (2023/05/31).  [素数大富豪](https://primeqk.themedia.jp)
 
 - (2023/06/07). 休講
 
