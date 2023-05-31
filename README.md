@@ -41,7 +41,7 @@
 - 第6回 (2023/05/24).  ポーカー  [第6回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/6_ポーカー_公開用.pdf)
 
 
-- 第7回 (2023/05/31).  [素数大富豪](https://primeqk.themedia.jp)
+- 第7回 (2023/05/31).  [素数大富豪](https://primeqk.themedia.jp) [第7回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/6_素数大富豪_公開用.pdf)
 
 - (2023/06/07). 休講
 
@@ -86,6 +86,12 @@
 - [【すぐ出来る】ポーカーのルールを世界一わかりやすくプロギャンブラーが解説します。【テキサスホールデム】](https://www.youtube.com/watch?v=tGoA4OWzzAk&t=1145s)
 - [【必勝法】カジノの勝ち方、全て話します。〜なぜあなたはギャンブルで負けるのか~]( https://www.youtube.com/watch?v=GAaj8hlls6I&t=15s)
 - [ROOTS What is poker ポーカーってなに?](https://roots-poker.com/what-is-poker)
+
+## 第7回 素数大富豪
+- [素数大富豪普及協会](https://primeqk.themedia.jp)
+- A. Jackson Comme Appelé du Néant-As If Summoned from the Void: The Life of Alexandre Grothendieck
+- Maynard, J. Primes with restricted digits. Invent. math. 217, 127–218 (2019). https://doi.org/10.1007/s00222-019-00865-6
+- Maynard, J.  Small gaps between primes. Ann. of Math. Pages 383-413 from Volume 181 (2015), Issue 1  https://doi.org/10.4007/annals.2015.181.1.7
 
 
 # 資料に関して
