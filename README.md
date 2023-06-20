@@ -45,7 +45,9 @@
 
 - (2023/06/07). 休講
 
-- 第8回 (2023/06/14).  研究者人生ゲーム・研究者のお仕事 (予定)
+- 第8回 (2023/06/14).  研究者のお仕事  [第7回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/8_研究者のお仕事_公開用.pdf)
+ [第8回数学パズル](https://github.com/masataka123/2023_summer_game/blob/master/material/8_数学パズル.pdf)
+
 
 - 第9回 (2023/06/21). [BABA IS YOU](https://store.steampowered.com/app/736260/Baba_Is_You/?l=japanese)(予定)
 
@@ -92,6 +94,11 @@
 - A. Jackson Comme Appelé du Néant-As If Summoned from the Void: The Life of Alexandre Grothendieck
 - Maynard, J. Primes with restricted digits. Invent. math. 217, 127–218 (2019). https://doi.org/10.1007/s00222-019-00865-6
 - Maynard, J.  Small gaps between primes. Ann. of Math. Pages 383-413 from Volume 181 (2015), Issue 1  https://doi.org/10.4007/annals.2015.181.1.7
+
+## 第8回 研究者のお仕事
+- 東京大学 須藤靖先生の講演資料 [Link](http://www-utap.phys.s.u-tokyo.ac.jp/~suto/myresearch/souma08.pdf)
+- [Arxiv](https://arxiv.org)
+- 数学パズルの元ネタ[The professor and company...](http://www-fourier.univ-grenoble-alpes.fr/~deraux/puzzle/professor.html)
 
 
 # 資料に関して
