@@ -45,13 +45,13 @@
 
 - (2023/06/07). 休講
 
-- 第8回 (2023/06/14).  研究者のお仕事  [第7回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/8_研究者のお仕事_公開用.pdf)
+- 第8回 (2023/06/14).  研究者のお仕事  [第8回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/8_研究者のお仕事_公開用.pdf)
  [第8回数学パズル](https://github.com/masataka123/2023_summer_game/blob/master/material/8_数学パズル.pdf)
 
 
-- 第9回 (2023/06/21). [BABA IS YOU](https://store.steampowered.com/app/736260/Baba_Is_You/?l=japanese)(予定)
+- 第9回 (2023/06/21). [BABA IS YOU](https://store.steampowered.com/app/736260/Baba_Is_You/?l=japanese)  [第9回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/9_BABAISYOU.pdf)
 
-- 第10回 (2023/06/28). [Minecraft](https://www.minecraft.net/ja-jp) (予定)
+- 第10回 (2023/06/28). [Minecraft](https://www.minecraft.net/ja-jp) 
 
 - 第11回 (2023/07/05).  [ゼルダの伝説 ブレスオブザワイルド](https://www.nintendo.co.jp/zelda/botw/index.html), [ゼルダの伝説 ティアーズオブザキングダム](https://www.nintendo.co.jp/zelda/totk/index.html)(予定)
 
@@ -99,6 +99,11 @@
 - 東京大学 須藤靖先生の講演資料 [Link](http://www-utap.phys.s.u-tokyo.ac.jp/~suto/myresearch/souma08.pdf)
 - [Arxiv](https://arxiv.org)
 - 数学パズルの元ネタ[The professor and company...](http://www-fourier.univ-grenoble-alpes.fr/~deraux/puzzle/professor.html)
+
+## 第9回 BABA IS YOU
+- 田中 尚夫　選択公理と数学
+- 小澤 登高　[バナッハ = タルスキーのパラドックス](https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H27-ozawa.pdf)
+
 
 
 # 資料に関して
