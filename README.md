@@ -51,13 +51,13 @@
 
 - 第9回 (2023/06/21). [BABA IS YOU](https://store.steampowered.com/app/736260/Baba_Is_You/?l=japanese)  [第9回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/9_BABAISYOU.pdf)
 
-- 第10回 (2023/06/28). [Minecraft](https://www.minecraft.net/ja-jp) 
+- 第10回 (2023/06/28). [Minecraft](https://www.minecraft.net/ja-jp) [第9回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/10_Minecraft.pdf)
 
-- 第11回 (2023/07/05).  [ゼルダの伝説 ブレスオブザワイルド](https://www.nintendo.co.jp/zelda/botw/index.html), [ゼルダの伝説 ティアーズオブザキングダム](https://www.nintendo.co.jp/zelda/totk/index.html)(予定)
+- 第11回 (2023/07/05). いろいろなものの確率テスト(予定) 
 
-- 第12回 (2023/07/12).  いろいろなものの確率テスト(予定)
+- 第12回 (2023/07/12).  [ゼルダの伝説 ブレスオブザワイルド](https://www.nintendo.co.jp/zelda/botw/index.html), [ゼルダの伝説 ティアーズオブザキングダム](https://www.nintendo.co.jp/zelda/totk/index.html)(予定)・まとめ(授業作成にあたり参考にしたもの)  (予定)
 
-- 第13回 (2023/07/19).  まとめ(授業作成にあたり参考にしたもの)  (予定)
+- 第13回 (2023/07/19).  
 
 -  (2023/07/26).  休講(予定)
 
@@ -103,6 +103,12 @@
 ## 第9回 BABA IS YOU
 - 田中 尚夫　選択公理と数学
 - 小澤 登高　[バナッハ = タルスキーのパラドックス](https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H27-ozawa.pdf)
+
+## 第10回 Minecraft
+-[This 8-bit processor built in Minecraft can run its own game](s https://www.pcworld.com/article/559794/8-bit-computer-processor-built-in-minecraft-can-run-its-own-games.html)
+- [CHUNGUS 2 - A very powerful 1Hz Minecraft CPU](https://www.youtube.com/watch?v=FDiapbD0Xfg)
+- [On the Turing Completeness of Super Mario Maker](https://www.youtube.com/watch?v=hd0EtsTUbmg)
+- A. Churchill, S. Biderman, A. Herrick “Magic: The Gathering is Turing Complete” arXiv:1904.09828v2
 
 
 
