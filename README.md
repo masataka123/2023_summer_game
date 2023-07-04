@@ -53,11 +53,11 @@
 
 - 第10回 (2023/06/28). [Minecraft](https://www.minecraft.net/ja-jp) [第9回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/10_Minecraft.pdf)
 
-- 第11回 (2023/07/05). いろいろなものの確率テスト(予定) 
+- 第11回 (2023/07/05). 確率テスト
 
-- 第12回 (2023/07/12).  [ゼルダの伝説 ブレスオブザワイルド](https://www.nintendo.co.jp/zelda/botw/index.html), [ゼルダの伝説 ティアーズオブザキングダム](https://www.nintendo.co.jp/zelda/totk/index.html)(予定)・まとめ(授業作成にあたり参考にしたもの)  (予定)
+- 第12回 (2023/07/12).  [ゼルダの伝説 ブレスオブザワイルド](https://www.nintendo.co.jp/zelda/botw/index.html), [ゼルダの伝説 ティアーズオブザキングダム](https://www.nintendo.co.jp/zelda/totk/index.html)(予定)・まとめ(授業作成にあたり参考にしたもの)  
 
-- 第13回 (2023/07/19).  
+- 第13回 (2023/07/19).  この授業を通しての質疑応答など
 
 -  (2023/07/26).  休講(予定)
 
@@ -110,6 +110,12 @@
 - [On the Turing Completeness of Super Mario Maker](https://www.youtube.com/watch?v=hd0EtsTUbmg)
 - A. Churchill, S. Biderman, A. Herrick “Magic: The Gathering is Turing Complete” arXiv:1904.09828v2
 
+## 第11回 確率テスト
+- ピーターウィンクラー とっておきの数学パズル
+
+## 第12回 確率テスト・まとめ
+- 安田健彦 ゲームで大学数学入門 (全般) 
+- [AtCoder](https://atcoder.jp/home)
 
 
 # 資料に関して
