@@ -53,8 +53,7 @@
 
 - 第10回 (2023/06/28). [Minecraft](https://www.minecraft.net/ja-jp) [第10回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/10_Minecraft.pdf)
 
-- 第11回 (2023/07/05). 確率テスト [確率直感テスト](https://forms.gle/DYzMmnWK7V2zsXPS7) [第11回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/11_確立テスト_公開用.pdf)
-[確率テストプログラミング](https://github.com/masataka123/2023_summer_game/blob/master/material/11_確立テスト.ipynb)
+- 第11回 (2023/07/05). 確率テスト [確率直感テスト](https://forms.gle/DYzMmnWK7V2zsXPS7) [第11回授業資料](https://github.com/masataka123/2023_summer_game/blob/master/material/11_確立テスト_公開用.pdf)[確率テストプログラミング](https://github.com/masataka123/2023_summer_game/blob/master/material/11_確立テスト.ipynb)
 
 - 第12回 (2023/07/12).  [ゼルダの伝説 ブレスオブザワイルド](https://www.nintendo.co.jp/zelda/botw/index.html), [ゼルダの伝説 ティアーズオブザキングダム](https://www.nintendo.co.jp/zelda/totk/index.html)(予定)・まとめ(授業作成にあたり参考にしたもの)  
 
